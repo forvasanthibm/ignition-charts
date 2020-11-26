@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ignition-chart:
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2020-11-26T16:22:01.0754767+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 7bc39e1f58962d1bc133a146e04d2ffcd488c4db776c0019cf7527a20c781eb2
+    name: ignition-chart
+    type: application
+    urls:
+    - ignition-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-26T16:22:01.0724769+05:30"
